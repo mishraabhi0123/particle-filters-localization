@@ -17,3 +17,5 @@ The robot can measure the distance form a few landmarks to estimate it's positio
 7. Now N new particles are selected at a probablity proportional to their weight (resampling from the new distribution).
 8. step 3 to 7 are repeated till convergence or until the belief reaches a maximum threshold. 
 
+![](particle-filter-result.png)
+
